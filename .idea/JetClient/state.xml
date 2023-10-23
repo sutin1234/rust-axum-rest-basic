@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="JetClientState">
+    <option name="folders">
+      <list>
+        <folderState>
+          <option name="id" value="58bc04b3-d770-4cd4-adb8-babae6592116" />
+          <option name="name" value="Axum" />
+          <option name="requests">
+            <list>
+              <requestState>
+                <option name="id" value="658eb263-dc85-4a12-bcdb-a0ce73574e4e" />
+                <option name="method" value="GET" />
+                <option name="name" value="cors" />
+                <option name="url" value="http://localhost:3000/" />
+              </requestState>
+            </list>
+          </option>
+          <option name="sortWeight" value="1000000" />
+          <option name="syncProperties">
+            <synchronizationPropertiesState>
+              <option name="folderPath" value="$PROJECT_DIR$/.jetclient" />
+            </synchronizationPropertiesState>
+          </option>
+        </folderState>
+      </list>
+    </option>
     <option name="id" value="2696cd49-ea11-4189-b475-b253161857d4" />
   </component>
 </project>
